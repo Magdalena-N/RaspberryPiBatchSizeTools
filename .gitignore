@@ -3,3 +3,5 @@ converted_models/
 venv/
 
 .idea/
+
+*.log
